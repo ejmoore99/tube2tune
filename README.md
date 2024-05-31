@@ -38,5 +38,9 @@ Tube2Tune
 -Follow the on-screen instructions to input the YouTube video URL.
 - Check downloads folder to ensure download was succesful!
 
+# MACOS INSTALLATION
+- Go to the MACOS folder in the dist folder
+- Run the iso file
+
 ## Contributing
 - Contributions are welcome! Please feel free to start an Issue and submit a Pull Request.
