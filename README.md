@@ -31,8 +31,9 @@ Tube2Tune
 
 ## Installation
 - Install the required Python libraries:
-
 - Run the program:
+    -pyinstaller main.py
+### OR
 - Run the .exe file in the dist folder 
 -Follow the on-screen instructions to input the YouTube video URL.
 - Check downloads folder to ensure download was succesful!
