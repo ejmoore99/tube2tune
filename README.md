@@ -19,7 +19,8 @@ Tube2Tune
 
 ## Technologies Used
 
-- Python
+- <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/42e8b33c-c567-46db-8913-9f9377414eff" alt="python" width="20"/> Python
+
 
 ## 🛠️ Requirements
 
