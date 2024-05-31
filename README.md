@@ -4,9 +4,7 @@ Tube2Tune
 </h1>
 
 ## Description
-<p align="center">An open-source Python program to convert YouTube videos to MP3 format and save them directly in your download folder.
-
-</p>
+<p align="center">An open-source Python program with a GUI to convert YouTube videos to MP3 format and save them directly in your download folder.</p>
 
 ## Screenshots/GIFs
 <p align="center">
